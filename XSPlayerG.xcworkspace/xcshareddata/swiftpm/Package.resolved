@@ -1,5 +1,5 @@
 {
-  "originHash" : "b33a50813487b91dcbe49224a2d76e64bba4a6093a731fef6bbd417c07e82798",
+  "originHash" : "6e65a0854a0fa004b939f657efe01529b9402d7be3c0de13fd7252cbddeb7738",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -31,10 +31,10 @@
     {
       "identity" : "handyjson",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:alibaba/HandyJSON.git",
+      "location" : "git@github.com:Miles-Matheson/HandyJSON.git",
       "state" : {
-        "revision" : "dcf39cf062680ffa4fd0acb7f9117a97755c113f",
-        "version" : "5.0.2"
+        "branch" : "master",
+        "revision" : "de8a7126d2270da55cea3cb45dadffcfd002dbbe"
       }
     },
     {
